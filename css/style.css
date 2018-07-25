@@ -118,6 +118,11 @@ img, video, audio {
   line-height: 0;
 }
 /* Sections */
+header{
+  position:fixed;
+  top:0;
+  left:0;
+}
 section {
   padding: 20px;
   margin-bottom: 20px;
